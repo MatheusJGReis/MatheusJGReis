@@ -40,7 +40,7 @@
 
 <br>
 
-<h2 align="left">🛠 Linguagens, Ferramentas e Tecnologias</h2>
+<h2 align="left">🖥️ Tecnologias</h2>
 
 <div align="center">
     <h3>🔡 Linguagens 🔡</h3>
