@@ -1,12 +1,12 @@
 <h1 align="center">🔹 Matheus Reis 🔸</h1>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=MatheusJGReis&label=Visitas&color=0e75b6&style=for-the-badge" alt="contador de visitas"/>
+    <img src="https://komarev.com/ghpvc/?username=MatheusJGReis&label=Visitas&color=0e75b6&style=for-the-badge" height="22" alt="contador de visitas"/>
 </p>
 
 <p align="center">
     Oi! Me chamo Matheus e boas-vindas ao meu perfil do GitHub!<br>
-    Sou um desenvolvedor de software iniciante e estou atualmente cursando Engenharia de Software.<br>
+    Sou um desenvolvedor de software iniciante e atualmente estou cursando Engenharia de Software.<br>
     Se gostar do que ver aqui, não esqueça de deixar uma estrelinha ⭐ !<br>
     <br>
     :)
@@ -21,12 +21,12 @@
     "perfil": {
         "nome": "Matheus José Gonçalves dos Reis",
         "idade": 20,
-        "endereco": "Tambaú - SP, Brasil",
+        "residencia": "Tambaú - SP",
         "formacao": {
             "curso": "Engenharia de Software",
             "tipo": "Bachalerado",
-            "instituicao": "UNIFAE - São João da Boa Vista",
-            "status": "Em andamento | 5º semestre"
+            "instituicao": "UNIFAE, São João da Boa Vista - SP",
+            "status": "Em andamento (5º semestre)"
         },
         "stack": "Full Stack",
         "areas_de_interesse": [
