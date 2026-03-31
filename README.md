@@ -1,7 +1,7 @@
 <h1 align="center">🔹 Matheus Reis 🔸</h1>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=MatheusJGReis&label=Visitas&color=0e75b6&style=for-the-badge" height="22" alt="contador de visitas"/>
+    <img src="https://komarev.com/ghpvc/?username=MatheusJGReis&label=Visitas&color=0e75b6&style=for-the-badge" height="23" alt="contador de visitas"/>
 </p>
 
 <p align="center">
