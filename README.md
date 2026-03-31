@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    Oi! Me chamo Matheus e boas-vindas ao meu perfil do GitHub!<br>
+    Oi! Me chamo Matheus e bem-vindo(a) ao meu perfil do GitHub!<br>
     Sou um desenvolvedor de software iniciante e atualmente estou cursando Engenharia de Software.<br>
     Se gostar do que ver aqui, não esqueça de deixar uma estrelinha ⭐ !<br>
     <br>
