@@ -1,7 +1,7 @@
 <h1 align="center">🔹 Matheus Reis 🔸</h1>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=MatheusJGReis&label=Visualizações&color=0e75b6&style=for-the-badge" alt="contador de visitas"/>
+    <img src="https://komarev.com/ghpvc/?username=MatheusJGReis&label=Visitas&color=0e75b6&style=for-the-badge" alt="contador de visitas"/>
 </p>
 
 <p align="center">
@@ -72,7 +72,6 @@
 
 <h2 align="left">💬 Contato</h2>
 
-
 <div align="center">
     <a href="mailto:matheus.jgreis06@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" alt="gmail logo"/>
@@ -81,7 +80,7 @@
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="32" alt="whatsapp logo"/>
     </a>
     <a href="https://linkedin.com/in/matheus-reis-6212212bb/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="linkedin logo"/>
+        <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="linkedin logo"/>
     </a>
 </div>
 
