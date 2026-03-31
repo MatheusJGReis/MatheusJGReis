@@ -28,6 +28,7 @@
         "endereco": "Tambaú - SP, Brasil",
         "formacao": {
             "curso": "Engenharia de Software",
+            "tipo": "Bachalerado",
             "instituicao": "UNIFAE - São João da Boa Vista",
             "status": "Em andamento | 5º semestre"
         },
@@ -69,6 +70,21 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"/>
     <img width="12"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
+</div>
+
+<br>
+
+<!-- TODO: Adicionar sessão de contato, contendo número de telefone (Whatsapp) e email. -->
+<h2 align="left">💬 Contato</h2>
+
+<div align="center">
+    <a href="mailto:matheus.jgreis06@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>
+    </a>
+    <img width="10"/>
+    <a href="https://wa.me/5519991189549">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25"/>
+    </a>
 </div>
 
 <br>
