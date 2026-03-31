@@ -1,19 +1,15 @@
 <h1 align="center">🔹 Matheus Reis 🔸</h1>
 
-<div align="center">
-    <a href="https://linkedin.com/in/matheus-reis-6212212bb/">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
-    </a>
-</div>
-
-<br>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=MatheusJGReis&label=Visualizações&color=0e75b6&style=for-the-badge" alt="contador de visitas"/>
+</p>
 
 <p align="center">
     Oi! Me chamo Matheus e boas-vindas ao meu perfil do GitHub!<br>
     Sou um desenvolvedor de software iniciante e estou atualmente cursando Engenharia de Software.<br>
     Se gostar do que ver aqui, não esqueça de deixar uma estrelinha ⭐ !<br>
     <br>
-    <b>:)</b>
+    :)
 </p>
 
 <br>
@@ -74,16 +70,18 @@
 
 <br>
 
-<!-- TODO: Adicionar sessão de contato, contendo número de telefone (Whatsapp) e email. -->
 <h2 align="left">💬 Contato</h2>
+
 
 <div align="center">
     <a href="mailto:matheus.jgreis06@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" alt="gmail logo"/>
     </a>
-    <img width="10"/>
     <a href="https://wa.me/5519991189549">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25"/>
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="32" alt="whatsapp logo"/>
+    </a>
+    <a href="https://linkedin.com/in/matheus-reis-6212212bb/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="linkedin logo"/>
     </a>
 </div>
 
