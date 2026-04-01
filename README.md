@@ -51,7 +51,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
     <img width="12"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"/>
-    <!-- <img width="12"/> -->
+    <!--
+        <img width="12"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"/>
+    -->
     <h3>✨ Frontend ✨</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
     <img width="12"/>
@@ -60,23 +63,26 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"/>
     <img width="12"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"/>
-    <!-- <img width="12"/> -->
     <h3>⚙️ Backend ⚙️</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"/>
     <img width="12"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"/>
-    <!-- <img width="12"/> -->
     <h3>🗄️ Bancos de Dados 🗄️</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
-    <!-- <img width="12"/> -->
     <h3>🛠 Ferramentas & Ambiente 🛠</h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
+    <img width="12"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"/>
     <img width="12"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"/>
-    <!-- <img width="12"/> -->
-    <h3>🎮 Game Engines 🎮</h3>
+    <h3>🎮 Game Engines & Frameworks 🎮</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"/>
-    <!-- <img width="12"/> -->
+    <img width="12"/>
+    <img src="https://raw.githubusercontent.com/love2d/love/60278b0532036d404c0b7b011c7b63ab58a5ddaf/platform/unix/love.svg" height="40" alt="love2d logo"/>
+    <!--
+        <img width="12"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"/>
+    -->
     <!-- <h3>🌐 Outros 🌐</h3> -->
 </div>
 
