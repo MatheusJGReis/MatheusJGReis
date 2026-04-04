@@ -1,5 +1,3 @@
-<!-- markdownlint-disable -->
-
 <h1 align="center">🔹 Matheus Reis 🔸</h1>
 
 <p align="center">
@@ -131,5 +129,3 @@
     -->
     <img src="https://streak-stats.demolab.com?user=MatheusJGReis&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
 </div>
-
-<!-- markdownlint-enable -->
