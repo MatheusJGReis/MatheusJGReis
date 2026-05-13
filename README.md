@@ -77,10 +77,8 @@
     -->
     <h3>🗄️ Bancos de Dados 🗄️</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
-    <!--
-        <img width="12"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"/>
-    -->
+    <img width="12"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"/>
     <h3>🛠 Ferramentas & Ambiente 🛠</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
     <img width="12"/>
