@@ -21,7 +21,6 @@
     "perfil": {
         "nome": "Matheus José Gonçalves dos Reis",
         "idade": 20,
-        "residencia": "Tambaú - SP",
         "formacao": {
             "curso": "Engenharia de Software",
             "tipo": "Bachalerado",
