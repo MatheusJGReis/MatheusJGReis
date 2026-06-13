@@ -81,10 +81,6 @@
     <img width="12"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"/>
     <img width="12"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/netbeans/netbeans-original.svg" height="40" alt="netbeans logo"/>
-    <img width="12"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/dbeaver/dbeaver-original.svg" height="40" alt="dbeaver logo"/>
-    <img width="12"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"/>
     <h3>🎮 Game Developing 🎮</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"/>
