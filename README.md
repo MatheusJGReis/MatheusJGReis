@@ -88,10 +88,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"/>
     <img width="12"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/love2d/love2d-original.svg" height="40" alt="love2d logo"/>
-    <!--
-        <img width="12"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"/>
-    -->
+    <img width="12"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"/>
     <!-- <h3>🌐 Outros 🌐</h3> -->
 </div>
 
