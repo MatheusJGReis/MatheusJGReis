@@ -25,7 +25,7 @@
             "curso": "Engenharia de Software",
             "tipo": "Bachalerado",
             "instituicao": "UNIFAE, São João da Boa Vista - SP",
-            "status": "Em andamento (5º semestre)"
+            "status": "Em andamento (6º semestre)"
         },
         "stack": "Full Stack",
         "areas_de_interesse": [
