@@ -23,7 +23,7 @@
         "idade": 20,
         "formacao": {
             "curso": "Engenharia de Software",
-            "tipo": "Bachalerado",
+            "tipo": "Bacharelado",
             "instituicao": "UNIFAE, São João da Boa Vista - SP",
             "status": "Em andamento (6º semestre)"
         },
